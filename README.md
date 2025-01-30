@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Mariusz!</h2>
+<h2 align="center">< About Me /></h2>
 
 ###
 
-<p align="left">I'm a passionate .NET enthusiast with a strong foundation in C# and modern backend technologies. As a recent graduate, I'm eager to apply my knowledge in RESTful APIs, microservices, and scalable software solutions. I'm continuously learning and exploring best practices to build efficient and maintainable applications.</p>
+<p align="left">Hi 👋! My name is Mariusz! I'm a passionate .NET enthusiast with a strong foundation in C# and modern backend technologies. As a recent graduate, I'm eager to apply my knowledge in RESTful APIs, microservices, and scalable software solutions. I'm continuously learning and exploring best practices to build efficient and maintainable applications.</p>
 
 ###
 
