@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Mariusz!</h2>
-
-###
-
 <div align="center">
   <img src="github-background.png" />
 </div>
+
+###
+
+<h2 align="left">Hi 👋! My name is Mariusz!</h2>
 
 ###
 
