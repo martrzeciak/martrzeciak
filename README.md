@@ -42,7 +42,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martrzeciak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=martrzeciak&theme=tokyonight&hide_border=true&card_width=320&card_height=170" alt="GitHub Streak" />
 </div>
 
 ###
