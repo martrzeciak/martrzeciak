@@ -35,8 +35,16 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=angular" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </div>
+
 ###
 
 <h2 align="center">< Activity /></h2>
