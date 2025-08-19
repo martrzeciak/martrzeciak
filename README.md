@@ -25,6 +25,11 @@
   <img src="https://skillicons.dev/icons?i=py" alt="Python icon" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker icon" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git icon" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure icon" />
+  <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus icon" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="Rabbitmq icon" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis icon" />
+  <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus icon" />
 </div>
 
 ###
