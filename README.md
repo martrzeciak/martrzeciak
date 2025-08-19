@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hi 👋! My name is Mariusz-junior .NET/C# developer who enjoys turning ideas into reliable backend services. I build RESTful APIs and cloud‑ready microservices with a focus on clean, testable, maintainable code. I’m expanding my skills in Azure, Docker/Kubernetes, CI/CD, and observability to enable safe releases and effortless scaling.</p>
+<p align="left">Hi 👋! My name is Mariusz-developer who enjoys turning ideas into reliable backend services. I build RESTful APIs and cloud‑ready microservices with a focus on clean, testable, maintainable code. I’m expanding my skills in Azure, Docker/Kubernetes, CI/CD, and observability to enable safe releases and effortless scaling.</p>
 
 ###
 
