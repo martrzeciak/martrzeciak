@@ -43,9 +43,9 @@
 
 ###
 
-<div align="center">
+<! -- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=martrzeciak&theme=tokyo-night&area=true&hide_border=true&hide_title=false&radius=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 ###
 
