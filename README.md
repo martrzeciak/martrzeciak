@@ -29,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus icon" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" alt="Rabbitmq icon" />
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis icon" />
-  <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus icon" />
 </div>
 
 ###
